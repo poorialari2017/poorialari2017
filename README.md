@@ -5,7 +5,7 @@
 
 
   <h1>Pooria Lari</h1>
-  <p>Computer Student</p>
+  <p>I have the spirit of Dr. Robotnik.</p>
 <img src="./assets/eggman_pixel_transparent.png" width="200" alt="Eggman Pixel Art" />
 
 
