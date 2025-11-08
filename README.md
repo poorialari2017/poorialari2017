@@ -69,9 +69,9 @@
 ## 🚀 Featured Projects
 
 
-- **Project 1** — [DataStructures-Algorithms](https://github.com/Pooria-Lari/DataStructures-Algorithms)
-- **Project 2** — 
-- **Project 3** —  
+- **Project 1** — [DataStructures Algorithms](https://github.com/Pooria-Lari/DataStructures-Algorithms)
+- **Project 2** — [Prostate Cancer](https://github.com/TheKidKy/prostate_cancer) 
+- **Project 3** — [BCD Addition Algorithm](https://github.com/Pooria-Lari/16bit-BCD-Addition) 
 
 ---
 
